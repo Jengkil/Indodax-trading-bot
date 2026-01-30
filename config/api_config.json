@@ -1,0 +1,7 @@
+{
+    "api_key": "YOUR_API_KEY",
+    "secret_key": "YOUR_SECRET_KEY",
+    "pair": "btc_idr",
+    "test_mode": true,
+    "initial_balance": 1000000
+}
